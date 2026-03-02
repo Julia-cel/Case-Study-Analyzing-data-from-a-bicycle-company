@@ -1,6 +1,6 @@
 # Case-Study: Analyzing data from a bicycle company in R
 ---
-## Project Overview
+## Project Overview ##
 
 This project focus on analyze the previous 12 months of Cyclist trip data. The main goal of this analysis is help Cyclistic-a bike share company- to increase the number of annual merbers by producing a specific marketing strategy to convert casual in annual members. For this purpose, this analysis will indentify how annual members and casual riders use Cyclistic bikes dierently and use this insights to produce key recommendation for a better marketing strategy.
 ---
